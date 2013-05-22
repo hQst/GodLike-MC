@@ -1,0 +1,5 @@
+X:\Godlike Media Center\Godlike.MediaCenter\Godlike.Model\bin\Debug\Godlike.Model.dll
+X:\Godlike Media Center\Godlike.MediaCenter\Godlike.Model\bin\Debug\Godlike.Model.pdb
+X:\Godlike Media Center\Godlike.MediaCenter\Godlike.Model\obj\Debug\Godlike.Model.dll
+X:\Godlike Media Center\Godlike.MediaCenter\Godlike.Model\obj\Debug\Godlike.Model.pdb
+X:\Godlike Media Center\Godlike.MediaCenter\Godlike.Model\obj\Debug\Godlike.Model.csprojResolveAssemblyReference.cache

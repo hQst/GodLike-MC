@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Godlike.GUI", "Godlike.GUI\Godlike.GUI.csproj", "{E9EE136E-9964-4983-BE84-F2AD284940C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Godlike.Model", "Godlike.Model\Godlike.Model.csproj", "{5000B367-966C-491E-B4F9-1234BEFB0ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9EE136E-9964-4983-BE84-F2AD284940C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9EE136E-9964-4983-BE84-F2AD284940C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9EE136E-9964-4983-BE84-F2AD284940C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9EE136E-9964-4983-BE84-F2AD284940C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5000B367-966C-491E-B4F9-1234BEFB0ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5000B367-966C-491E-B4F9-1234BEFB0ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5000B367-966C-491E-B4F9-1234BEFB0ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5000B367-966C-491E-B4F9-1234BEFB0ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
