@@ -55,6 +55,7 @@ namespace Godlike.GUI.Content
             Color.FromRgb(0x87, 0x79, 0x4e),   // taupe
         };
 
+        private string hest = "fisk";
         private Color selectedAccentColor;
         private LinkCollection themes = new LinkCollection();
         private Link selectedTheme;
