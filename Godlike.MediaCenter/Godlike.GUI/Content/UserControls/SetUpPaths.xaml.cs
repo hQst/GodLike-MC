@@ -25,7 +25,7 @@ namespace Godlike.GUI.Content.UserControls
         {
             InitializeComponent();
 
-            this.DataContext = new SetUpPathsViewModel();
+            this.DataContext = new SetUpPathsViewModel();            
         }
     }
 }

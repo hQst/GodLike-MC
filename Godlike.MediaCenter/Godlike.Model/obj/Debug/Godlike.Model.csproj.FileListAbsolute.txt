@@ -3,3 +3,8 @@ X:\Godlike Media Center\Godlike.MediaCenter\Godlike.Model\bin\Debug\Godlike.Mode
 X:\Godlike Media Center\Godlike.MediaCenter\Godlike.Model\obj\Debug\Godlike.Model.dll
 X:\Godlike Media Center\Godlike.MediaCenter\Godlike.Model\obj\Debug\Godlike.Model.pdb
 X:\Godlike Media Center\Godlike.MediaCenter\Godlike.Model\obj\Debug\Godlike.Model.csprojResolveAssemblyReference.cache
+C:\Users\horse\Documents\GitHub\GodLike-MC\Godlike.MediaCenter\Godlike.Model\bin\Debug\Godlike.Model.dll
+C:\Users\horse\Documents\GitHub\GodLike-MC\Godlike.MediaCenter\Godlike.Model\bin\Debug\Godlike.Model.pdb
+C:\Users\horse\Documents\GitHub\GodLike-MC\Godlike.MediaCenter\Godlike.Model\obj\Debug\Godlike.Model.csprojResolveAssemblyReference.cache
+C:\Users\horse\Documents\GitHub\GodLike-MC\Godlike.MediaCenter\Godlike.Model\obj\Debug\Godlike.Model.dll
+C:\Users\horse\Documents\GitHub\GodLike-MC\Godlike.MediaCenter\Godlike.Model\obj\Debug\Godlike.Model.pdb

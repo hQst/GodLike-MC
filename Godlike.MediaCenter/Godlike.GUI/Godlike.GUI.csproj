@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="BinaryRage">
+      <HintPath>X:\Code\MediaVortex\Model\bin\Debug\BinaryRage.dll</HintPath>
+    </Reference>
     <Reference Include="FirstFloor.ModernUI">
       <HintPath>..\packages\ModernUI.WPF.1.0.3\lib\net45\FirstFloor.ModernUI.dll</HintPath>
     </Reference>
@@ -68,6 +71,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Compile Include="BinaryRageDB.cs" />
     <Compile Include="Content\UserControls\SetUpPaths.xaml.cs">
       <DependentUpon>SetUpPaths.xaml</DependentUpon>
     </Compile>

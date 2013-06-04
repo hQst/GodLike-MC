@@ -5,6 +5,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Godlike.GUI", "Godlike.GUI\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Godlike.Model", "Godlike.Model\Godlike.Model.csproj", "{5000B367-966C-491E-B4F9-1234BEFB0ADB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", "{52AC4E3F-077F-4141-9EC9-94460F5F05CD}"
+	ProjectSection(SolutionItems) = preProject
+		References\BinaryRage.dll = References\BinaryRage.dll
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

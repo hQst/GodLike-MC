@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-X:\Godlike Media Center\Godlike.MediaCenter\Godlike.GUI\obj\Debug\
+C:\Users\horse\Documents\GitHub\GodLike-MC\Godlike.MediaCenter\Godlike.GUI\obj\Debug\
 Godlike.GUI
 none
 false
 DEBUG;TRACE
-X:\Godlike Media Center\Godlike.MediaCenter\Godlike.GUI\App.xaml
+C:\Users\horse\Documents\GitHub\GodLike-MC\Godlike.MediaCenter\Godlike.GUI\App.xaml
 6-1011442602
 
-10515615527
-152119486093
+11851224827
+161313149604
 Content\UserControls\SetUpPaths.xaml;MainWindow.xaml;Content\About.xaml;Content\SettingsAppearance.xaml;Pages\Home.xaml;Pages\Settings.xaml;
 
 False
